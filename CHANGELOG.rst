@@ -1,8 +1,8 @@
 Changelog
 =========
 
-Forthcoming
------------
+0.3.1 (2015-02-03)
+------------------
 * refactored the actual library namespace (previously just renamed the library)
 
 0.3.0 (2015-02-02)
