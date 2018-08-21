@@ -1,9 +1,11 @@
-# yaml_cpp_0_3
+# yaml_cpp_0_6
 
-Older version of yaml cpp without boost, namespaced to avoid system conflicts with future versions. i.e. headers can be found at:
+Latest version of yaml-cpp. More up to date than the current ros version or
+current version maintained by the canonical universal repository.
 
 ```
-#include <yaml-cpp-0.3/yaml.h>
+#include <yaml-cpp-0.6/yaml.h>
 ```
 
-and the library with `-llibyaml-cpp-0.3`.
+and the library with `-llibyaml-cpp-0.6`.
+find_package(libyaml-cpp-0.6)
