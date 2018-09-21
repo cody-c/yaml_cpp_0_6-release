@@ -1,8 +1,8 @@
 Changelog
 =========
 
-Forthcoming
------------
+0.6.3 (2018-09-21)
+------------------
 * Update library to use yaml-cpp-0.6.2
 * Renamespaced library and headers (yaml-0.3->yaml-0.6)
 * Contributors: cody-c
