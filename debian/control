@@ -1,0 +1,13 @@
+Source: ros-kinetic-yaml-cpp-0-6
+Section: misc
+Priority: extra
+Maintainer: Cody <cdy.chn@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-yaml-cpp-0-6
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: Latest version of yaml-cpp.
+ Namespaced to avoid system conflicts.
